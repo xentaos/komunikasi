@@ -1,2 +1,13 @@
-# komunikasi
-[Kerangka] Kerangka Tim Komunikasi Xenta OS Community.
+# Team
+**Leader**  
+ *  Dindin Hernawan <root@dev.xentaos.org>
+
+**Developer**  
+<!-- * Nama <E-Mail> -->
+ *  
+ *  
+ *  
+ *  
+ *  
+ *  
+ *  
