@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Smiley Logo 
+Description=Plymouth Theme Pertama Saya.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/smiley-logo
+ScriptFile=/usr/share/plymouth/themes/smiley-logo/smiley-logo.script

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=mytheme
+Comment=Theme Pertama saya
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=mytheme
+MetacityTheme=mytheme
+IconTheme=gnome
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close

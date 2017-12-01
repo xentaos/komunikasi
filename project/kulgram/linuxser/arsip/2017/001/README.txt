@@ -1,0 +1,153 @@
+========================================================================
+-                 >>>>>>>>>>>> MATERI <<<<<<<<<<<<<<<<
+-========================================================================
+-Pengenalan Pemateri
+-Nama 		: Dindin Hernawan
+-Asal 		: Cilacap
+-Aktifitas 	: Penggiat Linux
+-
+-========================================================================
+-Pengenalan Kulgram
+-Kulgram (Kuliah Telegram)
+-Acara Setiap Hari Selasa (2 Minggu 1x)
+-Pukul 08:00PM - 10:00PM WIB
+-
+-Materi dibawakan oleh Pengembang Xenta OS.
+-*Membuka relawan pemateri kulgram
+-
+-Topik bertemakan "Berkarya dan Berkreatifitas"
+-
+-Tiketnya gratis dan terbuka untuk umum.
+-Tempat di Grup Xenta Linuxser (Telegram).
+-
+-
+-========================================================================
+-Kulgram #001 "Membuat dan Merancang Icon Theme dari Nol"
+-========================================================================
+-A) Pengenalan Icon Theme
+-	1. Apa itu Icon Theme ?
+-	2. Bagaimana Cara Buatnya ?
+-
+-========================================================================
+-B) Persiapan Membuat Icon Theme
+-	1. Operasi Sistem Linux (Distro Linux Bebas)
+-	2. Aplikasi Grafis (Bebas)
+-		* Inkscape Direkomendasikan
+-	
+-========================================================================
+-C) Dasar Dasar icons theme
+-	1. Format file icon untuk icon theme ?
+-		xpm, png dan svg
+-		
+-	2. Apa saja ukuran icons theme ?
+-		Ukuran satuan dalam pixel :
+-		16x16 px
+-		22x22 px
+-		24x24 px
+-		32x32 px
+-		48x48 px
+-		96x96 px
+-		128x128 px
+-		256x256 px
+-		512x512 px
+-		
+-	3. Bagian icon theme ?
+-		actions
+-		apps
+-		categories
+-		devices
+-		emblems
+-		mimetypes
+-		places
+-		status
+-
+-	4. Struktur folder icons theme ?
+-		mode bagian
+-		actions apps categories devices emblems mimetypes places status
+-		index.theme icon-theme.cache
+-		
+-		mode ukuran
+-		16 22 24 32 48 96 128 256 512
+-		index.theme icon-theme.cache
+-
+-	5. Penempatan icons kedalam struktur folder icon theme
+-		mode bagian :
+-		namaicons/bagian/ukuran/nama-icons.png, nama-icons.xpm atau 
+-		nama-icons.svg
+-		contoh :
+-		myicons/apps/48/firefox.png
+-		
+-		mode ukuran :
+-		namaicons/ukuran/bagian/nama-icons.png, nama-icons.xpm atau 
+-		nama-icons.svg
+-		contoh :
+-		myicons/48/apps/firefox.png
+-		
+-	6. Bagian Bagian dari index.theme ?
+-		6.1 Penulisan index.theme mode bagian:
+-		[Icon Theme]
+-		Name=myicons
+-		Inherits=hicolor
+-		Comment=Icons Pertama Saya
+-		Directories=actions/16,
+-
+-		Example=folder
+-
+-		[actions/16]
+-		Size=16
+-		Context=Actions
+-		Type=Fixed
+-		
+-		6.2 Penulisan index.theme mode ukuran:
+-		[Icon Theme]
+-		Name=myicons
+-		Inherits=hicolor
+-		Comment=Icons Pertama Saya
+-		Directories=16/actions,
+-
+-		Example=folder
+-
+-		[16/actions]
+-		Size=16
+-		Context=Actions
+-		Type=Fixed
+-
+-========================================================================
+-                 >>>>>>>>>>>> PRAKTEK <<<<<<<<<<<<<<<<
+-========================================================================
+-1. Membuat Struktur Proyek Icons Theme (source dan proyek)
+Praktek :
+1. Membuat Struktur Proyek Icons Theme (source dan proyek)
+   Buka Terminal dan Jalankan Perintah Berikut :
+   
+   cd $HOME 
+   mkdir project 
+   cd project 
+   wget -c http://repository.xentaos.org/script/icons/myicons-bagian.sh
+   chmod 775 myicons-bagian.sh 
+   ./myicons-bagian.sh
+
+   Tutorial Videonya :
+   https://www.youtube.com/watch?v=MgF4jV9rPx8
+
+-2. Membuat Icon theme bagian places (Folder) Pertama Saya
+-3. Mengubah ukuran Icons dari svg ke banyak ukuran sekaligus (./produksi.sh)
+-4. Membuat database icon theme Pertama Saya
+-5. Mencoba Icon theme sendiri
+-
+-========================================================================
+-                 >>>>>>>>>>>> PENUTUP <<<<<<<<<<<<<<<<
+-========================================================================
+-1. Bantuan
+-	setelah kulgram ini selesai, Xenta Linuxser membuka wadah diskusi
+-	untuk membahas "icon theme" mari berbagi dan belajar bersama.
+-	
+-2. Wiki
+-	https://www.freedesktop.org/wiki/
+-	
+-3. Inpirasi
+-	https://github.com/shlinux/faenza-icon-theme
+-	https://github.com/numixproject/numix-icon-theme
+-	
+-4. Pustaka
+-  http://tango.freedesktop.org/Tango_Desktop_Project

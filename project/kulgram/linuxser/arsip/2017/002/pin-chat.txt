@@ -1,0 +1,18 @@
+Kulgram #002 " Membuat Theme Desktop Environment (DE) Metacity dan xfwm4"
+Pemateri    : Dindin Hernawan
+Acara       : Selasa, 7 November 2017
+Pukul       : 07:30PM - 10:30PM WIB
+Tiket       : Gratis
+
+PERSIAPAN:
++ Aplikasi Grafis
++ Text Editor
+
+MATERI :
++ Mengenal Theme Desktop Environment (DE)
++ Mengenal Metacity dan xfwm4
+
+PRAKTEK :
++ Membuat Theme Desktop Environment Metacity dan xfwm4
+
+Invite Link : t.me/xentalinuxser

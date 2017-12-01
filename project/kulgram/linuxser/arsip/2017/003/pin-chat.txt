@@ -1,0 +1,20 @@
+Kulgram #003 "Membuat Theme Desktop Environment (DE) GTK+2 dan GTK+3"
+Pemateri    : Dindin Hernawan
+              Purnomo Hadi
+Acara       : Selasa, 14 November 2017
+Pukul       : 07:30PM - 10:30PM WIB
+Tiket       : Gratis
+
+PERSIAPAN:
++ Text Editor  (Bebas)
++ Color Picker (gcolor2/gpcik/bebas)
+
+MATERI :
++ Mengenal GTK2 Theme Desktop Environment (DE)
++ Mengenal GTK3 Theme Desktop Environment (DE)
+
+PRAKTEK :
++ Membuat GTK2 Theme Desktop Environment (DE)
++ Membuat GTK2 Theme Desktop Environment (DE)
+
+Invite Link : t.me/xentalinuxser

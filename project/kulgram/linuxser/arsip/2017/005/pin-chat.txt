@@ -1,0 +1,18 @@
+Kulgram #005 "Mengenal Bootscreen & Membuat Plymouth Theme"
+Pemateri    : Dindin Hernawan
+Acara       : Selasa, 28 November 2017
+Pukul       : 08:00PM - 09:30PM WIB
+Tiket       : Gratis
+
+PERSIAPAN:
++ Distro GNU/Linux (Bebas)
++ Text & Grafis Editor (Bebas)
+
+MATERI :
++ Mengenal Bootscreen
++ Mengenal Plymouth Bootscreen
+
+PRAKTEK :
++ Membuat Plymouth Bootscreen Theme
+
+Invite Link : t.me/xentalinuxser

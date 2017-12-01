@@ -1,0 +1,19 @@
+Kulgram #004 "Membuat Theme Display Manager (DM) LightDM dan GDM"
+Pemateri    : Dindin Hernawan
+              Purnomo Hadi
+Acara       : Selasa, 21 November 2017
+Pukul       : 08:-0PM - 10:00PM WIB
+Tiket       : Gratis
+
+PERSIAPAN:
++ Grafis Editor  (Bebas)
++ Text Editor (Bebas)
+
+MATERI :
++ Mengenal Display Manager (DM)
+
+PRAKTEK :
++ Membuat Theme LightDM Display Manager
++ Membuat Theme GDM Display Manager
+
+Invite Link : t.me/xentalinuxser
