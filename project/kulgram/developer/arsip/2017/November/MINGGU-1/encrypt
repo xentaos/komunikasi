@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+figlet encrypt
+SAVEIF=$IFS
+IFS=$(echo -en "\n\b")
+for file in $(ls *pdf)
+do
+  name=${file%%.pdf}
+  uid=dindinhernawan@gmail.com
+  gpg --output $name.gpg --encrypt --recipient $uid $name.pdf
+done
+IFS=$(echo -en "\n\b")
+for file in $(ls *png)
+do
+  name=${file%%.png}
+  uid=dindinhernawan@gmail.com
+  gpg --output $name.gpg --encrypt --recipient $uid $name.png
+done
+IFS=$(echo -en "\n\b")
+for file in $(ls *txt)
+do
+  name=${file%%.txt}
+  uid=dindinhernawan@gmail.com
+  gpg --output $name.gpg --encrypt --recipient $uid $name.txt
+done

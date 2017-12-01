@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+figlet fake
+SAVEIF=$IFS
+IFS=$(echo -en "\n\b")
+for file in $(ls *gpg)
+do
+  name=${file%%.gpg}
+  mv $name.gpg $name.txt
+done
