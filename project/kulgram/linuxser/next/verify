@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+figlet verify
+gpg --verify pin-chat.sig       pin-chat.txt
+gpg --verify chat-materi.sig    chat-materi.txt

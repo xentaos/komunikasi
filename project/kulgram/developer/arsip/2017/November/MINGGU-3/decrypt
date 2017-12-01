@@ -22,3 +22,10 @@ do
   uid=root@dev.xentaos.org
   gpg --output $name.txt --decrypt --recipient $uid $name.gpg
 done
+IFS=$(echo -en "\n\b")
+for file in $(ls chat*gpg)
+do
+  name=${file%%.gpg}
+  uid=root@dev.xentaos.org
+  gpg --output $name.txt --decrypt --recipient $uid $name.gpg
+done

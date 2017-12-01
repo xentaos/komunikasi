@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+figlet signature
+gpg --output pin-chat.sig       --detach-sig pin-chat.txt
+gpg --output chat-materi.sig    --detach-sig chat-materi.txt
