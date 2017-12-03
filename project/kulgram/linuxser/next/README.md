@@ -1,16 +1,16 @@
-# Kulgram #006 
-**Mengenal Artwork Splash, Design   Splash GIMP & LibreOfiice**  
+# Kulgram#006  
+**Mengenal Artwork Splash, Design Splash GIMP & LibreOfiice**  
 Pemateri    : Dindin Hernawan  
 Acara       : Selasa, 5 Desember 2017  
 Pukul       : 08:00PM - 10:00PM WIB  
-Tiket       : Gratis
+Tiket       : Gratis  
 
 **PERSIAPAN:**  
 + Sudah Menginstall GIMP & LibreOffice.  
 + Text Editor (Bebas)  
 + Grafis Editor (Bebas)  
 
-**MATERI:**  
+((MATERI:**
 + Mengenal Artwork Splash  
 
 **PRAKTEK:**
@@ -19,8 +19,7 @@ Tiket       : Gratis
 
 Invite Link : t.me/xentalinuxser  
 
-> **Community Partner:**  
-> Komunitas Belajar LibreOffice Indonesia (BLOI)  
-> Join di Group Telegram  
-> t.me/BelajarLibreOfficeIndonesia  
-
+**Community Partner:**  
+Komunitas Belajar LibreOffice Indonesia (BLOI)  
+Join di Group Telegram   
+t.me/BelajarLibreOfficeIndonesia  
