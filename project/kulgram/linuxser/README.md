@@ -20,9 +20,9 @@ Tiket       : Gratis
 
 Invite Link : t.me/xentalinuxser  
 
--------------------------------------------  
-Community Partner :
-Komunitas Belajar LibreOffice Indonesia (BLOI)
-Join di Group Telegram 
-t.me/BelajarLibreOfficeIndonesia
--------------------------------------------
+
+**Community Partner:**  
+> Komunitas Belajar LibreOffice Indonesia (BLOI)  
+> Join di Group Telegram  
+> t.me/BelajarLibreOfficeIndonesia  
+
