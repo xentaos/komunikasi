@@ -15,6 +15,7 @@
 team=komunikasi
 
 figlet $team
+cd ..
 cd ./.manage/git
 ./remote
 ./pull
