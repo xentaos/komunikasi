@@ -5,7 +5,6 @@ Acara       : Selasa, 5 Desember 2017
 Pukul       : 08:00PM - 10:00PM WIB  
 Tiket       : Gratis
 
-
 **PERSIAPAN:**  
 + Sudah Menginstall GIMP & LibreOffice.  
 + Text Editor (Bebas)  
@@ -20,8 +19,7 @@ Tiket       : Gratis
 
 Invite Link : t.me/xentalinuxser  
 
-
-**Community Partner:**  
+> **Community Partner:**  
 > Komunitas Belajar LibreOffice Indonesia (BLOI)  
 > Join di Group Telegram  
 > t.me/BelajarLibreOfficeIndonesia  
