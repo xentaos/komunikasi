@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-project='komunikasi'
-# project divisi = 
-figlet MakeFile
