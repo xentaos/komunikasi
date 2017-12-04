@@ -1,6 +1,6 @@
 # Notes
- * Jangan Upload Apapun Disini  
- * Khusus Untuk Maintainer Project  
+ * Jangan Upload Disini  
+ * Untuk Maintainer Project  
 
 # Maintainer
 Name: **Dindin Hernawan**  
