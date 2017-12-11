@@ -1,9 +1,9 @@
 Kulgram #003 "Membuat Script Bash & Belajar Git."
-Minggu 0 <11 Desember 2017>
+Minggu 1 <18 Desember 2017>
 MATERI :
-+ Mengenal Script Bash
++ Mengenal Git
 PRAKTEK :
-+ Membuat Script Bash.
++ Membuat version control Git untuk berkas.
 
 NOTES:
 * Invite Hanya Developer
