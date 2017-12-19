@@ -1,0 +1,6 @@
+Kulgram #003 "Membuat Script Bash & Belajar Git."
+Minggu 0 <11 Desember 2017>
+MATERI :
++ Mengenal Script Bash
+PRAKTEK :
++ Membuat Script Bash.

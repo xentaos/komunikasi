@@ -1,0 +1,8 @@
+Kulgram #003 "Membuat Script Bash & Belajar Git."
+Minggu 1 <18 Desember 2017>
+MATERI :
++ Mengenal Git
+PRAKTEK :
++ Membuat Version Control Git untuk Berkas Script Bash.
+PERSIAPAN:
+* Sudah terinstall paket git

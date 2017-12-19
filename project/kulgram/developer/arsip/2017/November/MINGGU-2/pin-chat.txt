@@ -1,0 +1,12 @@
+Kulgram #002 "Membuat dan Meracik Sistem Operasi Sendiri"
+Minggu 2 <20 November 2017>
+MATERI :
++ Mengenal casper
++ Mengenal live
+PRAKTEK :
++ Membuat Kerangka dvd casper
++ Membuat filesystem.squashfs
++ Mengkopikan initrd.lz & vmlinuz
++ Membuat Image ISO
+PR:
++ Install Desktop lxde atau xfce (Boleh Bebas)

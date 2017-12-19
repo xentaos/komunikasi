@@ -1,0 +1,6 @@
+Kulgram #002 "Membuat dan Meracik Sistem Operasi Sendiri"
+Minggu 3 <27 November 2017>
+MATERI :
++ Mengenal Artwork
+PRAKTEK :
++ Membuat Artwork untuk Session Login Pertama User.

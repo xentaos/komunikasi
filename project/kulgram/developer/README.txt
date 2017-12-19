@@ -1,10 +1,9 @@
 Kulgram #003 "Membuat Script Bash & Belajar Git."
-Minggu 1 <18 Desember 2017>
+Minggu 2 <25 Desember 2017>
 MATERI :
-+ Mengenal Git
++ Mengelola Git di Github
 PRAKTEK :
-+ Membuat version control Git untuk berkas.
-
-NOTES:
-* Invite Hanya Developer
-* Tempat [Kulgram] Xenta OS Developer
++ Membuat Repository di Github.
++ Fork dan Pull Request.
+PERSIAPAN:
+* Sudah mendaftar akun github.

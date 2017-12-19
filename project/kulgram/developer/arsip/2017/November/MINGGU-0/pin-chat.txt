@@ -1,0 +1,6 @@
+Kulgram #002 "Membuat dan Meracik Sistem Operasi Sendiri"
+Minggu 0 <6 November 2017>
+MATERI :
++ Mengenal Debootsrap
+PRAKTEK :
++ Membuat Kerangka Deboostrap
